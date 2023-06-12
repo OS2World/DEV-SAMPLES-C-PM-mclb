@@ -27,4 +27,3 @@ moving and copying of items between them.
 SAMP6:
 ======
 A multicolumn listbox with fixed-width columns.
-
